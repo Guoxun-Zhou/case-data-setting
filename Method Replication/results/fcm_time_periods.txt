@@ -1,0 +1,2 @@
+FCM contiguous operating periods (zero-based hours): 0-3; 4-11; 12-17; 18-21; 22-23
+FCM contiguous operating periods (clock time): 00:00-04:00; 04:00-12:00; 12:00-18:00; 18:00-22:00; 22:00-24:00

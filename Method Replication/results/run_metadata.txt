@@ -1,0 +1,25 @@
+samples=20
+seed=20260821
+key_count=6
+fcm_period_count=5
+fcm_time_feature_weight=200.0
+sample=0, baseline=272.77969070, optimized=208.87355129
+sample=1, baseline=209.58102040, optimized=162.44425467
+sample=2, baseline=219.65919829, optimized=170.19654353
+sample=3, baseline=204.43627310, optimized=159.86629187
+sample=4, baseline=276.55246870, optimized=211.84230576
+sample=5, baseline=254.15803596, optimized=194.62485828
+sample=6, baseline=215.56363957, optimized=166.95312190
+sample=7, baseline=378.47384778, optimized=285.93993499
+sample=8, baseline=231.90821672, optimized=179.53260992
+sample=9, baseline=270.91500626, optimized=208.57397828
+sample=10, baseline=302.39815232, optimized=232.22519864
+sample=11, baseline=276.43649384, optimized=211.72075285
+sample=12, baseline=286.60967846, optimized=219.21266654
+sample=13, baseline=329.18118673, optimized=251.77805646
+sample=14, baseline=269.95984548, optimized=207.05749426
+sample=15, baseline=348.87342734, optimized=265.76528759
+sample=16, baseline=218.12430213, optimized=168.07366445
+sample=17, baseline=256.55772746, optimized=196.80024018
+sample=18, baseline=302.37183173, optimized=231.40492680
+sample=19, baseline=349.25299399, optimized=263.67886510

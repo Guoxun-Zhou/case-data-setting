@@ -1,0 +1,3 @@
+Static key switches (zero-based branch indices): 13, 14, 3, 2, 15, 11
+Static key switches (one-based branch indices): 14, 15, 4, 3, 16, 12
+Gao-style static key-switch set; FCM time division is reported separately.

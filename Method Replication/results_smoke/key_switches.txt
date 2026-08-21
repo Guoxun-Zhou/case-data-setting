@@ -1,0 +1,3 @@
+Static key switches (zero-based branch indices): 13, 14, 3, 2, 15, 11
+Static key switches (one-based branch indices): 14, 15, 4, 3, 16, 12
+This Gao-style static baseline has no period division; all 24 hours remain separate.

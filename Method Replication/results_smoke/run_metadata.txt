@@ -1,0 +1,4 @@
+samples=1
+seed=20260821
+key_count=6
+sample=0, baseline=272.77969070, optimized=208.87355129
